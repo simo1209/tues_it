@@ -1,0 +1,21 @@
+.side{
+    background-color: #336699;
+}
+
+#picture{
+    margin: 0 auto;
+    width: 204px;
+}
+
+.spec{
+    margin: 0 auto;
+    background-color: #003366;
+    color:white;
+    text-align: center;
+}
+
+.field{
+    margin: 0 auto;
+    text-align: center;
+    color:white;
+}
