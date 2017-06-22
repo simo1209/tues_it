@@ -1,0 +1,54 @@
+body{
+    background-color: #CCC;
+}
+@media only screen and (min-aspect-ratio: 2/1){
+    #side-panel{
+        margin-top: 1em
+    }
+
+    
+}
+
+
+#main-info{
+    
+}
+
+#cv_picture{
+    margin: 0 auto;
+}
+
+#side-panel{
+    background-color: #3AC;
+    /*text-align: center;*/
+    color:#FFF;
+}
+/*
+#side-panel>div{
+    margin:10px;
+}*/
+
+
+
+hr{
+    border-color: #444;
+}
+
+.faded{
+    color:#888
+}
+
+.main-info{
+    background-color: #FFF;
+    box-shadow: 0 1px 5px #888888;
+    margin-top: 1em;
+    color: #777
+}
+
+.title{
+    color:#333;
+}
+
+.date{
+    color:#55D;
+}

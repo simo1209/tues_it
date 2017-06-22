@@ -1,0 +1,25 @@
+{
+  "name": "workshop",
+  "homepage": "https://github.com/simo1209/tues_it/2021_v/24/workshop",
+  "authors": [
+    "simo1209 <simeongeorgiev09@gmail.com>"
+  ],
+  "description": "tues_it 8 grade workshop",
+  "main": "index.html",
+  "keywords": [
+    "responsive",
+    "cv",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
